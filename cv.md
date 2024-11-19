@@ -26,8 +26,7 @@ Regular student. Aspiring to be the full-fledged reactjs/full-stack developer in
 
 ## Code Example
 
-function addition(var1, var2)   
-{  
+function addition(var1, var2) {  
   return var1 + var2;  
 }  
 
@@ -43,7 +42,18 @@ June 2024 - November 2024
 
 ---
 
-## Work Experience:
+## Education:
+
+Skoltech. Materials Science department.  
+2020 - 2022
+
+---
+
+## Education:
+
+English level C1 - Advanced
+
+
 
 
 

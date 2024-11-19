@@ -26,7 +26,8 @@ Regular student. Aspiring to be the full-fledged reactjs/full-stack developer in
 
 ## Code Example
 
-function addition(var1, var2) {
+function addition(var1, var2) 
+{
   return var1 + var2;
 }
 
@@ -34,6 +35,15 @@ let result = addition(var1, var2);
 alert( result );
 
 ---
+
+## Work Experience:
+
+Reactsjs Intern in SwiftMart (OOO ALT)
+June 2024 - November 2024
+
+---
+
+## Work Experience:
 
 
 

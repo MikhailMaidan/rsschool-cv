@@ -16,11 +16,22 @@ Regular student. Aspiring to be the full-fledged reactjs/full-stack developer in
 
 ---
 
-## Sills
+## Skills
 
 - **HTML5** 
 * **CSS3** 
-+ **Github:** 
++ **Github** 
+
+---
+
+## Code Example
+
+function addition(var1, var2) {
+  return var1 + var2;
+}
+
+let result = addition(var1, var2);
+alert( result );
 
 ---
 
